@@ -1,2 +1,0 @@
-# learnemt.github.io
-Hexo
