@@ -1,0 +1,8 @@
+# ×¢ÊÍ
+
+landscape
+hexo-theme-huhu
+node_modules/
+source/
+.deploy*/
+*.gitkeep
