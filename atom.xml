@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>learnemt的博客</title>
+  
+  
+  <link href="https://learnemt.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://learnemt.github.io/"/>
+  <updated>2022-02-08T04:46:14.948Z</updated>
+  <id>https://learnemt.github.io/</id>
+  
+  <author>
+    <name>learnemt</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>doWork</title>
+    <link href="https://learnemt.github.io/20220208/doWork"/>
+    <id>https://learnemt.github.io/20220208/doWork</id>
+    <published>2022-02-08T04:43:35.000Z</published>
+    <updated>2022-02-08T04:46:14.948Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>  start to work</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;  start to work&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      
+    
+    
+    
+    <category term="work" scheme="https://learnemt.github.io/categories/work/"/>
+    
+    
+    <category term="me" scheme="https://learnemt.github.io/tags/me/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sqlserver</title>
+    <link href="https://learnemt.github.io/20220122/sqlserver"/>
+    <id>https://learnemt.github.io/20220122/sqlserver</id>
+    <published>2022-01-22T09:12:41.000Z</published>
+    <updated>2022-01-22T09:15:47.633Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>sql server</strong></p><p><em>my sql</em></p><p><code>redis</code></p><p><a href="#">mongodb</a></p><blockquote><p>  oracle</p></blockquote><ol><li> access</li></ol><ul><li><p>  txt</p></li><li><p>  [ ] azure</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;sql server&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;my sql&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;redis&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;mongodb&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  oracle&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="数据库" scheme="https://learnemt.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue.js</title>
+    <link href="https://learnemt.github.io/20220117/vue-js"/>
+    <id>https://learnemt.github.io/20220117/vue-js</id>
+    <published>2022-01-17T07:56:24.000Z</published>
+    <updated>2022-01-17T08:01:17.263Z</updated>
+    
+    
+    
+    
+    <category term="编程" scheme="https://learnemt.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="vue.js" scheme="https://learnemt.github.io/tags/vue-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nginx</title>
+    <link href="https://learnemt.github.io/20220117/nginx"/>
+    <id>https://learnemt.github.io/20220117/nginx</id>
+    <published>2022-01-17T07:56:18.000Z</published>
+    <updated>2022-01-17T08:01:20.048Z</updated>
+    
+    
+    
+    
+    <category term="编程" scheme="https://learnemt.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="nginx" scheme="https://learnemt.github.io/tags/nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>k8s</title>
+    <link href="https://learnemt.github.io/20220117/k8s"/>
+    <id>https://learnemt.github.io/20220117/k8s</id>
+    <published>2022-01-17T07:56:10.000Z</published>
+    <updated>2022-01-17T08:01:23.997Z</updated>
+    
+    
+    
+    
+    <category term="编程" scheme="https://learnemt.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="容器" scheme="https://learnemt.github.io/tags/%E5%AE%B9%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>docker</title>
+    <link href="https://learnemt.github.io/20220117/docker"/>
+    <id>https://learnemt.github.io/20220117/docker</id>
+    <published>2022-01-17T07:56:05.000Z</published>
+    <updated>2022-01-17T08:01:36.138Z</updated>
+    
+    
+    
+    
+    <category term="编程" scheme="https://learnemt.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="容器" scheme="https://learnemt.github.io/tags/%E5%AE%B9%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git</title>
+    <link href="https://learnemt.github.io/20220117/git"/>
+    <id>https://learnemt.github.io/20220117/git</id>
+    <published>2022-01-17T07:55:57.000Z</published>
+    <updated>2022-01-17T08:01:33.677Z</updated>
+    
+    
+    
+    
+    <category term="编程" scheme="https://learnemt.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="git" scheme="https://learnemt.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>javascript</title>
+    <link href="https://learnemt.github.io/20220117/javascript"/>
+    <id>https://learnemt.github.io/20220117/javascript</id>
+    <published>2022-01-17T07:55:51.000Z</published>
+    <updated>2022-01-17T08:02:06.431Z</updated>
+    
+    
+    
+    
+    <category term="编程" scheme="https://learnemt.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="前端" scheme="https://learnemt.github.io/categories/%E7%BC%96%E7%A8%8B/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="javascript" scheme="https://learnemt.github.io/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>newpage</title>
+    <link href="https://learnemt.github.io/20220117/newpage"/>
+    <id>https://learnemt.github.io/20220117/newpage</id>
+    <published>2022-01-17T06:12:34.000Z</published>
+    <updated>2022-02-08T05:58:29.891Z</updated>
+    
+    <content type="html"><![CDATA[<p>new page</p><p><img src="/assets/articleImg/xianyu.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;new page&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/articleImg/xianyu.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="https://learnemt.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="test" scheme="https://learnemt.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C#10</title>
+    <link href="https://learnemt.github.io/20220117/C-10"/>
+    <id>https://learnemt.github.io/20220117/C-10</id>
+    <published>2022-01-17T06:12:14.000Z</published>
+    <updated>2022-01-17T08:02:23.319Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="C"><a href="#C" class="headerlink" title="C#"></a>C#</h1><ul><li>  console.write(‘hello’)</li></ul><p><strong>console.write(‘hello’)</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">console.write(‘hello’)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;C&quot;&gt;&lt;a href=&quot;#C&quot; class=&quot;headerlink&quot; title=&quot;C#&quot;&gt;&lt;/a&gt;C#&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;  console.write(‘hello’)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;console.write(‘hell</summary>
+      
+    
+    
+    
+    <category term="编程" scheme="https://learnemt.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="C#" scheme="https://learnemt.github.io/categories/%E7%BC%96%E7%A8%8B/C/"/>
+    
+    
+    <category term="C#" scheme="https://learnemt.github.io/tags/C/"/>
+    
+    <category term="test" scheme="https://learnemt.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://learnemt.github.io/20211226/hello-world"/>
+    <id>https://learnemt.github.io/20211226/hello-world</id>
+    <published>2021-12-26T12:45:40.400Z</published>
+    <updated>2022-01-17T08:01:28.552Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="快速入门" scheme="https://learnemt.github.io/categories/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"/>
+    
+    
+  </entry>
+  
+</feed>

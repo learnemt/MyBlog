@@ -18,10 +18,12 @@
 <meta property="og:image" content="https://learnemt.github.io/assets/articleImg/xianyu.jpg">
 <meta property="article:published_time" content="2022-01-17T06:12:34.000Z">
 <meta property="article:modified_time" content="2022-02-08T05:58:29.891Z">
-<meta property="article:author" content="John Doe">
+<meta property="article:author" content="learnemt">
 <meta property="article:tag" content="test">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://learnemt.github.io/assets/articleImg/xianyu.jpg">
+  
+    <link rel="alternative" href="/atom.xml" title="learnemt的博客" type="application/atom+xml">
   
   
     <link rel="icon" href="/assets/img/icon.webp">
@@ -82,6 +84,8 @@
 				
 					<a class="github" target="_blank" href="https://github.com/learnemt" title="github"><i class="icon-github"></i></a>
 		        
+					<a class="rss" target="_blank" href="/atom.xml" title="rss"><i class="icon-rss"></i></a>
+		        
 					<a class="bilibili" target="_blank" href="https://search.bilibili.com/" title="bilibili"><i class="icon-bilibili"></i></a>
 		        
 			</div>
@@ -116,6 +120,8 @@
 				<div class="social">
 					
 						<a class="github" target="_blank" href="https://github.com/learnemt" title="github"><i class="icon-github"></i></a>
+			        
+						<a class="rss" target="_blank" href="/atom.xml" title="rss"><i class="icon-rss"></i></a>
 			        
 						<a class="bilibili" target="_blank" href="https://search.bilibili.com/" title="bilibili"><i class="icon-bilibili"></i></a>
 			        
@@ -302,6 +308,22 @@
   
 
   
+  <div id="gitment-ctn"></div> 
+<link rel="stylesheet" href="//imsun.github.io/gitment/style/default.css">
+<script src="//imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: "https://learnemt.github.io/20220117/newpage",
+  owner: 'learnemt',
+  repo: 'learnemt.github.io',
+  oauth: {
+    client_id: 'cafe160842d83d8f0731',
+    client_secret: '4581ec640c1704b63f34d463bcda6263c3671d64',
+  },
+})
+gitment.render('gitment-ctn')
+</script>
+  
 
 
           </div>
@@ -311,7 +333,7 @@
   <div class="outer">
     <div id="footer-info">
     	<div class="footer-left">
-    		&copy; 2022 John Doe
+    		&copy; 2022 learnemt
     	</div>
       	<div class="footer-right">
       		<a href="http://hexo.io/" target="_blank">Hexo</a>  Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank">Yilia</a> by Litten
@@ -394,10 +416,6 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
           <ul class="article-tag-list" q-show="showTags">
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">me</a>
-              </li>
-             
-              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color3">C#</a>
               </li>
              
@@ -406,15 +424,19 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
               </li>
              
               <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">me</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">容器</a>
+              </li>
+             
+              <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color4">git</a>
               </li>
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color1">javascript</a>
-              </li>
-             
-              <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color3">容器</a>
               </li>
              
               <li class="article-tag-list-item">
@@ -479,10 +501,6 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
           
             <li class="search-li">
               <a href="https://learnemt.github.io" target="_blank" class="search-title"><i class="icon-quo-left icon"></i>本站链接</a>
-            </li>
-          
-            <li class="search-li">
-              <a href="https://su3.cn/2021/11/12/git-richang/" target="_blank" class="search-title"><i class="icon-quo-left icon"></i>苏三</a>
             </li>
           
         </ul>
