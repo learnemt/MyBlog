@@ -1,8 +1,10 @@
-# ×¢ÊÍ
+# æ³¨é‡Š
 
 landscape
-hexo-theme-huhu
+hexo-theme-yilia-plus
 node_modules/
-source/
 .deploy*/
 *.gitkeep
+public
+repo.txt
+.travis.yml

@@ -3,20 +3,23 @@
 
 # Site
 title: learnemt的博客
-subtitle: 少言
-description: 'new come，this blog is powered by hexo'
+# subtitle: 少言
+description: 'this blog is powered by hexo'
 keywords: 
-author: John Doe
-language: zh-CN
-timezone: 'Asia/Shanghai'
+author: learnemt
+# language: zh-CN
+language: 
+- zh-cn
+- zh-tw
+- en
+timezone: 'Asia/shanghai'
 
 # :lang支持多语言 
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://learnemt.github.io # /blog 重要
-root: 
-# /blog/ # 重要
+url: https://learnemt.github.io/MyBlog
+root: /MyBlog/
 permalink: /:year:month:day/:title.html #文件路径格式
 permalink_defaults:
 pretty_urls:
@@ -33,9 +36,10 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
-# Writing
+# Writing 写作
 new_post_name: :title.md # File name of new posts
 default_layout: post  # 预设布局
+auto_spacing: true
 titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
@@ -69,7 +73,7 @@ index_generator:
   order_by: -date
   #single_language_index: false
 
-# Category & Tag分类和标签
+# Category & Tag 分类和标签
 default_category: uncategorized
 category_map:
 tag_map:
@@ -87,7 +91,7 @@ time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
 
-# Pagination分页
+# Pagination 分页
 ## Set per_page to 0 to disable pagination
 per_page: 5
 pagination_dir: page #分页目录
@@ -100,12 +104,21 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins:
+  hexo-generator-feed
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
 ## Themes: https://hexo.io/themes/
-theme: yilia 
-#theme: landscape
+theme: landscape
+#theme: hexo-theme-yilia-plus 
+#theme: false 禁用主题
+theme: yilia
 
-# 需要这个不让搜索文章会找不到
-jsonContent:
+# 需要这个，不然搜索文章会找不到
+jsonContent: 
    meta: false
    pages: false
    posts:
@@ -114,19 +127,19 @@ jsonContent:
      path: true
      text: false
      raw: false
-     content: false
+     content: true
      slug: false
      updated: false
      comments: false
      link: false
      permalink: false
      excerpt: false
-     categories: false
+     categories: true
      tags: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
    type: git
-   repo: git@github.com:learnemt/learnemt.github.io.git
+   repo: git@github.com:learnemt/MyBlog.git
    branch: main
