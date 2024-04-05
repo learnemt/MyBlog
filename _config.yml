@@ -5,13 +5,9 @@
 title: learnemt的博客
 # subtitle: 少言
 description: 'this blog is powered by hexo'
-keywords: 
+keywords: 'hexo'
 author: learnemt
-# language: zh-CN
-language: 
-- zh-cn
-- zh-tw
-- en
+language: zh-CN
 timezone: 'Asia/shanghai'
 
 # :lang支持多语言 
@@ -112,7 +108,7 @@ feed:
   path: atom.xml
   limit: 20
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
 #theme: hexo-theme-yilia-plus 
 #theme: false 禁用主题
 theme: yilia
