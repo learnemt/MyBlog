@@ -6,7 +6,7 @@
   <link href="https://learnemt.github.io/MyBlog/atom.xml" rel="self"/>
   
   <link href="https://learnemt.github.io/MyBlog/"/>
-  <updated>2024-02-23T17:05:14.030Z</updated>
+  <updated>2024-05-14T15:53:02.785Z</updated>
   <id>https://learnemt.github.io/MyBlog/</id>
   
   <author>
@@ -17,11 +17,53 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>招呼</title>
+    <link href="https://learnemt.github.io/MyBlog/20240514/%E6%8B%9B%E5%91%BC"/>
+    <id>https://learnemt.github.io/MyBlog/20240514/%E6%8B%9B%E5%91%BC</id>
+    <published>2024-05-14T15:50:43.000Z</published>
+    <updated>2024-05-14T15:53:02.785Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="good-morning！"><a href="#good-morning！" class="headerlink" title="good morning！"></a>good morning！</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;good-morning！&quot;&gt;&lt;a href=&quot;#good-morning！&quot; class=&quot;headerlink&quot; title=&quot;good morning！&quot;&gt;&lt;/a&gt;good morning！&lt;/h3&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://learnemt.github.io/MyBlog/20240406/hello-world"/>
+    <id>https://learnemt.github.io/MyBlog/20240406/hello-world</id>
+    <published>2024-04-05T17:49:36.614Z</published>
+    <updated>2024-04-05T17:17:37.977Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="快速入门" scheme="https://learnemt.github.io/MyBlog/categories/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>草稿1</title>
     <link href="https://learnemt.github.io/MyBlog/20240224/%E8%8D%89%E7%A8%BF1"/>
     <id>https://learnemt.github.io/MyBlog/20240224/%E8%8D%89%E7%A8%BF1</id>
     <published>2024-02-23T17:02:35.000Z</published>
-    <updated>2024-02-23T17:05:14.030Z</updated>
+    <updated>2024-04-05T17:17:38.086Z</updated>
     
     <content type="html"><![CDATA[<h3 id="不再更新。"><a href="#不再更新。" class="headerlink" title="不再更新。"></a>不再更新。</h3>]]></content>
     
@@ -41,7 +83,7 @@
     <link href="https://learnemt.github.io/MyBlog/20240224/%E6%9B%B4%E6%96%B0%E5%86%92%E6%B3%A1"/>
     <id>https://learnemt.github.io/MyBlog/20240224/%E6%9B%B4%E6%96%B0%E5%86%92%E6%B3%A1</id>
     <published>2024-02-23T16:54:56.000Z</published>
-    <updated>2024-02-23T16:54:56.431Z</updated>
+    <updated>2024-04-05T17:17:38.086Z</updated>
     
     
     
@@ -54,7 +96,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220805/jieyou-7"/>
     <id>https://learnemt.github.io/MyBlog/20220805/jieyou-7</id>
     <published>2022-08-05T15:16:24.000Z</published>
-    <updated>2022-10-24T11:49:28.795Z</updated>
+    <updated>2024-04-05T17:17:38.055Z</updated>
     
     <content type="html"><![CDATA[<img src="/MyBlog/20220805/jieyou-7/7.gif" class="" title="尴尬而不失礼貌的微笑">]]></content>
     
@@ -80,7 +122,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220804/jieyou-6"/>
     <id>https://learnemt.github.io/MyBlog/20220804/jieyou-6</id>
     <published>2022-08-04T12:31:58.000Z</published>
-    <updated>2022-08-05T15:27:01.563Z</updated>
+    <updated>2024-04-05T17:17:38.039Z</updated>
     
     <content type="html"><![CDATA[<img src="/MyBlog/20220804/jieyou-6/6.gif" class="" title="蚌埠住了">]]></content>
     
@@ -104,7 +146,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220803/jieyou-5"/>
     <id>https://learnemt.github.io/MyBlog/20220803/jieyou-5</id>
     <published>2022-08-03T12:12:15.000Z</published>
-    <updated>2022-08-05T15:27:05.011Z</updated>
+    <updated>2024-04-05T17:17:38.024Z</updated>
     
     <content type="html"><![CDATA[<img src="/MyBlog/20220803/jieyou-5/5.gif" class="" title="这啥玩意"><img src="/MyBlog/20220803/jieyou-5/5.1.gif" class="" title="职业假笑">]]></content>
     
@@ -130,7 +172,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220802/jieyou-4"/>
     <id>https://learnemt.github.io/MyBlog/20220802/jieyou-4</id>
     <published>2022-08-02T14:16:28.000Z</published>
-    <updated>2022-08-05T15:27:08.376Z</updated>
+    <updated>2024-04-05T17:17:38.008Z</updated>
     
     <content type="html"><![CDATA[<img src="/MyBlog/20220802/jieyou-4/4.gif" class="" title="笑容逐渐消失"><img src="/MyBlog/20220802/jieyou-4/4.1.gif" class="" title="消愁">]]></content>
     
@@ -156,7 +198,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220801/jieyou-3"/>
     <id>https://learnemt.github.io/MyBlog/20220801/jieyou-3</id>
     <published>2022-08-01T13:32:59.000Z</published>
-    <updated>2022-08-05T15:27:11.314Z</updated>
+    <updated>2024-04-05T17:17:37.993Z</updated>
     
     <content type="html"><![CDATA[<img src="/MyBlog/20220801/jieyou-3/3.gif" class="" title="无能狂怒">]]></content>
     
@@ -180,7 +222,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220731/jieyou-2"/>
     <id>https://learnemt.github.io/MyBlog/20220731/jieyou-2</id>
     <published>2022-07-31T13:32:51.000Z</published>
-    <updated>2022-08-05T15:27:14.934Z</updated>
+    <updated>2024-04-05T17:17:37.993Z</updated>
     
     <content type="html"><![CDATA[<img src="/MyBlog/20220731/jieyou-2/2.gif" class="" title="哎呀">]]></content>
     
@@ -204,7 +246,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220730/jieyou-1"/>
     <id>https://learnemt.github.io/MyBlog/20220730/jieyou-1</id>
     <published>2022-07-30T14:45:59.000Z</published>
-    <updated>2022-08-05T15:27:17.831Z</updated>
+    <updated>2024-04-05T17:17:37.977Z</updated>
     
     <content type="html"><![CDATA[<p>戒游第一天，一周后删去。</p><img src="/MyBlog/20220730/jieyou-1/1.gif" class="" title="让我想想"><img src="/MyBlog/20220730/jieyou-1/demo.png" class="" title="kizunaAi">]]></content>
     
@@ -231,7 +273,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220723/new-draft"/>
     <id>https://learnemt.github.io/MyBlog/20220723/new-draft</id>
     <published>2022-07-23T14:59:55.000Z</published>
-    <updated>2022-08-05T15:26:40.490Z</updated>
+    <updated>2024-04-05T17:17:38.071Z</updated>
     
     
     
@@ -248,7 +290,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220304/kizuna"/>
     <id>https://learnemt.github.io/MyBlog/20220304/kizuna</id>
     <published>2022-03-04T05:00:24.000Z</published>
-    <updated>2022-07-30T15:13:29.688Z</updated>
+    <updated>2024-04-05T17:17:38.071Z</updated>
     
     <content type="html"><![CDATA[<p>kizuna Ai,嗨多莫</p><img src="/MyBlog/20220304/kizuna/BV1mS4y167M7.jpg" class="" title="kizunaAi"><img src="/MyBlog/20220304/kizuna/rwxx.gif" class="" title="让我想想">]]></content>
     
@@ -275,7 +317,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220208/doWork"/>
     <id>https://learnemt.github.io/MyBlog/20220208/doWork</id>
     <published>2022-02-08T04:43:35.000Z</published>
-    <updated>2022-02-08T04:46:14.948Z</updated>
+    <updated>2024-04-05T17:17:37.961Z</updated>
     
     <content type="html"><![CDATA[<ul><li>  start to work</li></ul>]]></content>
     
@@ -302,7 +344,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220122/sqlserver"/>
     <id>https://learnemt.github.io/MyBlog/20220122/sqlserver</id>
     <published>2022-01-22T09:12:41.000Z</published>
-    <updated>2022-07-23T14:17:25.978Z</updated>
+    <updated>2024-04-05T17:17:38.086Z</updated>
     
     <content type="html"><![CDATA[<p><strong>sql server</strong></p><p><em>my sql</em></p><p><code>redis</code></p><p><a href="#">mongodb</a></p><blockquote><p>  oracle</p></blockquote><ol><li> access</li></ol><ul><li><p>  txt</p></li><li><p>  [ ] azure</p></li></ul>]]></content>
     
@@ -329,7 +371,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220117/vue-js"/>
     <id>https://learnemt.github.io/MyBlog/20220117/vue-js</id>
     <published>2022-01-17T07:56:24.000Z</published>
-    <updated>2022-01-17T08:01:17.263Z</updated>
+    <updated>2024-04-05T17:17:38.086Z</updated>
     
     
     
@@ -346,7 +388,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220117/nginx"/>
     <id>https://learnemt.github.io/MyBlog/20220117/nginx</id>
     <published>2022-01-17T07:56:18.000Z</published>
-    <updated>2022-01-17T08:01:20.048Z</updated>
+    <updated>2024-04-05T17:17:38.086Z</updated>
     
     
     
@@ -363,7 +405,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220117/k8s"/>
     <id>https://learnemt.github.io/MyBlog/20220117/k8s</id>
     <published>2022-01-17T07:56:10.000Z</published>
-    <updated>2022-01-17T08:01:23.997Z</updated>
+    <updated>2024-04-05T17:17:38.055Z</updated>
     
     
     
@@ -380,7 +422,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220117/docker"/>
     <id>https://learnemt.github.io/MyBlog/20220117/docker</id>
     <published>2022-01-17T07:56:05.000Z</published>
-    <updated>2022-07-23T14:16:52.953Z</updated>
+    <updated>2024-04-05T17:17:37.961Z</updated>
     
     
     
@@ -397,7 +439,7 @@
     <link href="https://learnemt.github.io/MyBlog/20220117/git"/>
     <id>https://learnemt.github.io/MyBlog/20220117/git</id>
     <published>2022-01-17T07:55:57.000Z</published>
-    <updated>2022-01-17T08:01:33.677Z</updated>
+    <updated>2024-04-05T17:17:37.977Z</updated>
     
     
     
@@ -406,51 +448,6 @@
     
     
     <category term="git" scheme="https://learnemt.github.io/MyBlog/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>javascript</title>
-    <link href="https://learnemt.github.io/MyBlog/20220117/javascript"/>
-    <id>https://learnemt.github.io/MyBlog/20220117/javascript</id>
-    <published>2022-01-17T07:55:51.000Z</published>
-    <updated>2022-01-17T08:02:06.431Z</updated>
-    
-    
-    
-    
-    <category term="编程" scheme="https://learnemt.github.io/MyBlog/categories/%E7%BC%96%E7%A8%8B/"/>
-    
-    <category term="前端" scheme="https://learnemt.github.io/MyBlog/categories/%E7%BC%96%E7%A8%8B/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-    <category term="javascript" scheme="https://learnemt.github.io/MyBlog/tags/javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>newpage</title>
-    <link href="https://learnemt.github.io/MyBlog/20220117/newpage"/>
-    <id>https://learnemt.github.io/MyBlog/20220117/newpage</id>
-    <published>2022-01-17T06:12:34.000Z</published>
-    <updated>2022-07-23T15:20:43.339Z</updated>
-    
-    <content type="html"><![CDATA[<p>new page</p><p><img src="/MyBlog/assets/articleImg/xianyu.jpg"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;new page&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/MyBlog/assets/articleImg/xianyu.jpg&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="日常" scheme="https://learnemt.github.io/MyBlog/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="test" scheme="https://learnemt.github.io/MyBlog/tags/test/"/>
     
   </entry>
   
